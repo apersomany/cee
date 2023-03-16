@@ -35,7 +35,7 @@ async function getNodes($: CheerioAPI, base: string, fetch: Fetch) {
 	const nodes = $("navPoint:first > navPoint")
 		.toArray()
 		.map(async (node) => {
-			const resp = await fetch("get_node", {
+			const resp = await fetch("https://cee.aperso.dev/get_node", {
 				method: "POST",
 				body: JSON.stringify({
 					base,
