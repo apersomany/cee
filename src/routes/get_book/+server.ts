@@ -17,8 +17,6 @@ export async function POST({ request }) {
 	);
 }
 
-type Fetch = typeof fetch;
-
 async function getNodes($: CheerioAPI, base: string) {
 	const nodes = $("navMap:first > navPoint")
 		.toArray()

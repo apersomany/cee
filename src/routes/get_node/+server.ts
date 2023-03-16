@@ -13,8 +13,6 @@ export async function POST({ request }) {
 	);
 }
 
-type Fetch = typeof fetch;
-
 async function getTerms($: CheerioAPI, base: string) {
 	const resp = await fetch(base + $("navPoint:first > content").attr("src"), {
 		headers: { referer: "https://elevate.cambridge.org" },
