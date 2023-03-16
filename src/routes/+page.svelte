@@ -31,6 +31,7 @@
 	let index = 0;
 	let start = false;
 	let notes = false;
+	let texta = "";
 
 	function fillTerms(node: Node) {
 		if (node.selected != false) {
@@ -68,7 +69,11 @@
 			>
 				{notes ? terms[index].note : terms[index].name}
 			</div>
-			<textarea class="box large_text" style="height: 40vh; resize: none;" />
+			<textarea
+				class="box large_text"
+				style="height: 40vh; resize: none;"
+				bind:value={texta}
+			/>
 			<!-- svelte-ignore a11y-click-events-have-key-events -->
 			<div
 				class="box large_text center"
@@ -79,6 +84,8 @@
 					} else {
 						index++;
 					}
+					texta = "";
+					notes = false;
 					if (round == rounds) {
 						alert("Finished");
 						history.back();
