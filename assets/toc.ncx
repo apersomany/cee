@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+    <head>
+        <meta content="9781108810654" name="dtb:uid"/>
+        <meta content="1" name="dtb:depth"/>
+        <meta content="679" name="dtb:totalPageCount"/>
+        <meta content="679" name="dtb:headmaxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>Economics for the IB Diploma Coursebook</text>
+    </docTitle>
+    <docAuthor>
+        <text>Ellie Tragakes</text>
+    </docAuthor>
+    <navMap>
+        <navPoint id="toc1" playOrder="1">
+            <navLabel>
+                <text>Title Page</text>
+            </navLabel>
+            <content src="Text/Title.xhtml"/>
+        </navPoint>
+        <navPoint id="toc2" playOrder="2">
+            <navLabel>
+                <text>Contents</text>
+            </navLabel>
+            <content src="Text/Contents.xhtml"/>
+        </navPoint>
+        <navPoint id="toc3" playOrder="3">
+            <navLabel>
+                <text>Dedication</text>
+            </navLabel>
+            <content src="Text/Dedi.xhtml"/>
+        </navPoint>
+        <navPoint id="toc4" playOrder="4">
+            <navLabel>
+                <text>About the author</text>
+            </navLabel>
+            <content src="Text/Author.xhtml"/>
+        </navPoint>
+        <navPoint id="toc5" playOrder="5">
+            <navLabel>
+                <text>Acknowledgements</text>
+            </navLabel>
+            <content src="Text/Acknowledgements.xhtml"/>
+        </navPoint>
+        <navPoint id="toc6" playOrder="6">
+            <navLabel>
+                <text>How to use this series</text>
+            </navLabel>
+            <content src="Text/Series.xhtml"/>
+        </navPoint>
+        <navPoint id="toc7" playOrder="7">
+            <navLabel>
+                <text>How to use this book</text>
+            </navLabel>
+            <content src="Text/Howtousebook.xhtml"/>
+        </navPoint>
+        <navPoint id="toc8" playOrder="8">
+            <navLabel>
+                <text>Digital coursebook: Extra material</text>
+            </navLabel>
+            <content src="Text/Note.xhtml"/>
+        </navPoint>
+        <navPoint id="toc9" playOrder="9">
+            <navLabel>
+                <text>Theory of Knowledge features &amp; Real World Focus features</text>
+            </navLabel>
+            <content src="Text/TheoryofKnowledge.xhtml"/>
+        </navPoint>
+        <navPoint id="toc10" playOrder="10">
+            <navLabel>
+                <text>Unit 1 Introduction to Economics</text>
+            </navLabel>
+            <content src="Text/Unit1.xhtml#u01"/>
+            <navPoint id="toc11" playOrder="11">
+                <navLabel>
+                    <text>1 The foundations of economics</text>
+                </navLabel>
+                <content src="Text/Chapter1.xhtml#c01"/>
+                <navPoint id="toc12" playOrder="12">
+                    <navLabel>
+                        <text>1.1 Understanding the nature of economics</text>
+                    </navLabel>
+                    <content src="Text/Chapter1-1.xhtml#sec1-1"/>
+                </navPoint>
+                <navPoint id="toc13" playOrder="13">
+                    <navLabel>
+                        <text>1.2 The three basic economic questions: resource allocation and output/income distribution</text>
+                    </navLabel>
+                    <content src="Text/Chapter1-2.xhtml#sec1-2"/>
+                </navPoint>
+                <navPoint id="toc14" playOrder="14">
+                    <navLabel>
+                        <text>1.3 Understanding the world by use of models</text>
+                    </navLabel>
+                    <content src="Text/Chapter1-3.xhtml#sec1-3"/>
+                </navPoint>
+                <navPoint id="toc15" playOrder="15">
+                    <navLabel>
+                        <text>1.4 The method of economics</text>
+                    </navLabel>
+                    <content src="Text/Chapter1-4.xhtml#sec1-4"/>
+                </navPoint>
+                <navPoint id="toc16" playOrder="16">
+                    <navLabel>
+                        <text>1.5 A brief history of economic thought: the origins of economic ideas</text>
+                    </navLabel>
+                    <content src="Text/Chapter1-5.xhtml#sec1-5"/>
+                </navPoint>
+            </navPoint>
+        </navPoint>
+        <navPoint id="toc17" playOrder="17">
+            <navLabel>
+                <text>Unit 2 Microeconomics</text>
+            </navLabel>
+            <content src="Text/Unit2.xhtml#u02"/>
+            <navPoint id="toc18" playOrder="18">
+                <navLabel>
+                    <text>2 Competitive markets: Demand and supply</text>
+                </navLabel>
+                <content src="Text/Chapter2.xhtml#c02"/>
+                <navPoint id="toc19" playOrder="19">
+                    <navLabel>
+                        <text>2.1 Introduction to competitive markets</text>
+                    </navLabel>
+                    <content src="Text/Chapter2-1.xhtml#sec2-1"/>
+                </navPoint>
+                <navPoint id="toc20" playOrder="20">
+                    <navLabel>
+                        <text>2.2 Demand</text>
+                    </navLabel>
+                    <content src="Text/Chapter2-2.xhtml#sec2-2"/>
+                </navPoint>
+                <navPoint id="toc21" playOrder="21">
+                    <navLabel>
+                        <text>2.3 Supply</text>
+                    </navLabel>
+                    <content src="Text/Chapter2-3.xhtml#sec2-3"/>
+                </navPoint>
+                <navPoint id="toc22" playOrder="22">
+                    <navLabel>
+                        <text>2.4 Competitive market equilibrium: demand and supply</text>
+                    </navLabel>
+                    <content src="Text/Chapter2-4.xhtml#sec2-4"/>
+                </navPoint>
+                <navPoint id="toc23" playOrder="23">
+                    <navLabel>
+                        <text>2.5 The role of the price mechanism and market efficiency</text>
+                    </navLabel>
+                    <content src="Text/Chapter2-5.xhtml#sec2-5"/>
+                </navPoint>
+                <navPoint id="toc24" playOrder="24">
+                    <navLabel>
+                        <text>2.6 Critique of the maximising behaviour of consumers and producers (HL only)</text>
+                    </navLabel>
+                    <content src="Text/Chapter2-6.xhtml#sec2-6"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="toc25" playOrder="25">
+                <navLabel>
+                    <text>3 Elasticities</text>
+                </navLabel>
+                <content src="Text/Chapter3.xhtml#c03"/>
+            </navPoint>
+            <navPoint id="toc26" playOrder="26">
+                <navLabel>
+                    <text>3.1 Price elasticity of demand (PED)</text>
+                </navLabel>
+                <content src="Text/Chapter3-1.xhtml#sec3-1"/>
+                <navPoint id="toc27" playOrder="27">
+                    <navLabel>
+                        <text>3.2 Income elasticity of demand (YED)</text>
+                    </navLabel>
+                    <content src="Text/Chapter3-2.xhtml#sec3-2"/>
+                </navPoint>
+                <navPoint id="toc28" playOrder="28">
+                    <navLabel>
+                        <text>3.3 Price elasticity of supply (PES)</text>
+                    </navLabel>
+                    <content src="Text/Chapter3-3.xhtml#sec3-3"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="toc29" playOrder="29">
+                <navLabel>
+                    <text>4 Government intervention in microeconomics</text>
+                </navLabel>
+                <content src="Text/Chapter4.xhtml#c04"/>
+                <navPoint id="toc30" playOrder="30">
+                    <navLabel>
+                        <text>4.1 Government intervention in markets</text>
+                    </navLabel>
+                    <content src="Text/Chapter4-1.xhtml#sec4-1"/>
+                </navPoint>
+                <navPoint id="toc31" playOrder="31">
+                    <navLabel>
+                        <text>4.2 Price controls</text>
+                    </navLabel>
+                    <content src="Text/Chapter4-2.xhtml#sec4-2"/>
+                </navPoint>
+                <navPoint id="toc32" playOrder="32">
+                    <navLabel>
+                        <text>4.3 Indirect taxes</text>
+                    </navLabel>
+                    <content src="Text/Chapter4-3.xhtml#sec4-3"/>
+                </navPoint>
+                <navPoint id="toc33" playOrder="33">
+                    <navLabel>
+                        <text>4.4 Subsidies</text>
+                    </navLabel>
+                    <content src="Text/Chapter4-4.xhtml#sec4-4"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="toc34" playOrder="34">
+                <navLabel>
+                    <text>5 Market failure and socially undesirable outcomes I: Common pool resources and negative externalities</text>
+                </navLabel>
+                <content src="Text/Chapter5.xhtml#c05"/>
+                <navPoint id="toc35" playOrder="35">
+                    <navLabel>
+                        <text>5.1 The meaning of common pool resources</text>
+                    </navLabel>
+                    <content src="Text/Chapter5-1.xhtml#sec5-1"/>
+                </navPoint>
+                <navPoint id="toc36" playOrder="36">
+                    <navLabel>
+                        <text>5.2 Market failure and externalities: diverging private and social benefits and costs</text>
+                    </navLabel>
+                    <content src="Text/Chapter5-2.xhtml#sec5-2"/>
+                </navPoint>
+                <navPoint id="toc37" playOrder="37">
+                    <navLabel>
+                        <text>5.3 Negative production externalities</text>
+                    </navLabel>
+                    <content src="Text/Chapter5-3.xhtml#sec5-3"/>
+                </navPoint>
+                <navPoint id="toc38" playOrder="38">
+                    <navLabel>
+                        <text>5.4 Negative consumption externalities</text>
+                    </navLabel>
+                    <content src="Text/Chapter5-4.xhtml#sec5-4"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="toc39" playOrder="39">
+                <navLabel>
+                    <text>6 Market failure and socially undesirable outcomes II: Positive externalities, public goods, asymmetric information and inability to achieve equity</text>
+                </navLabel>
+                <content src="Text/Chapter6.xhtml#c06"/>
+                <navPoint id="toc40" playOrder="40">
+                    <navLabel>
+                        <text>6.1 Positve production externalities</text>
+                    </navLabel>
+                    <content src="Text/Chapter6-1.xhtml#sec6-1"/>
+                </navPoint>
+                <navPoint id="toc41" playOrder="41">
+                    <navLabel>
+                        <text>6.2 Positive consumption externalities</text>
+                    </navLabel>
+                    <content src="Text/Chapter6-2.xhtml#sec6-2"/>
+                </navPoint>
+                <navPoint id="toc42" playOrder="42">
+                    <navLabel>
+                        <text>6.3 Market failure and public goods</text>
+                    </navLabel>
+                    <content src="Text/Chapter6-3.xhtml#sec6-3"/>
+                </navPoint>
+                <navPoint id="toc43" playOrder="43">
+                    <navLabel>
+                        <text>6.4 Asymmetric information (HL only)</text>
+                    </navLabel>
+                    <content src="Text/Chapter6-4.xhtml#sec6-4"/>
+                </navPoint>
+                <navPoint id="toc44" playOrder="44">
+                    <navLabel>
+                        <text>6.5 Equity in the distribution of income and wealth (HL only)</text>
+                    </navLabel>
+                    <content src="Text/Chapter6-5.xhtml#sec6-5"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="toc45" playOrder="45">
+                <navLabel>
+                    <text>7 Market failure and socially undesirably outcomes III: Market power (HL only)</text>
+                </navLabel>
+                <content src="Text/Chapter7.xhtml#c07"/>
+                <navPoint id="toc46" playOrder="46">
+                    <navLabel>
+                        <text>7.1 Introduction to firms, industries and market structures</text>
+                    </navLabel>
+                    <content src="Text/Chapter7-1.xhtml#sec7-1"/>
+                </navPoint>
+                <navPoint id="toc47" playOrder="47">
+                    <navLabel>
+                        <text>7.2 Profit maximisation by the rational producer</text>
+                    </navLabel>
+                    <content src="Text/Chapter7-2.xhtml#sec7-2"/>
+                </navPoint>
+                <navPoint id="toc48" playOrder="48">
+                    <navLabel>
+                        <text>7.3 Perfect competition</text>
+                    </navLabel>
+                    <content src="Text/Chapter7-3.xhtml#sec7-3"/>
+                </navPoint>
+                <navPoint id="toc49" playOrder="49">
+                    <navLabel>
+                        <text>7.4 Monopoly</text>
+                    </navLabel>
+                    <content src="Text/Chapter7-4.xhtml#sec7-4"/>
+                </navPoint>
+                <navPoint id="toc50" playOrder="50">
+                    <navLabel>
+                        <text>7.5 Monopolistic competition</text>
+                    </navLabel>
+                    <content src="Text/Chapter7-5.xhtml#sec7-5"/>
+                </navPoint>
+                <navPoint id="toc51" playOrder="51">
+                    <navLabel>
+                        <text>7.6 Oligopoly</text>
+                    </navLabel>
+                    <content src="Text/Chapter7-6.xhtml#sec7-6"/>
+                </navPoint>
+                <navPoint id="toc52" playOrder="52">
+                    <navLabel>
+                        <text>7.7 Government intervention in response to abuse of market power</text>
+                    </navLabel>
+                    <content src="Text/Chapter7-7.xhtml#sec7-7"/>
+                </navPoint>
+            </navPoint>
+        </navPoint>
+        <navPoint id="toc53" playOrder="53">
+            <navLabel>
+                <text>Unit 3 Macroeconomics</text>
+            </navLabel>
+            <content src="Text/Unit3.xhtml#u03"/>
+            <navPoint id="toc54" playOrder="54">
+                <navLabel>
+                    <text>8 The level of overall economic activity</text>
+                </navLabel>
+                <content src="Text/Chapter8.xhtml#c08"/>
+                <navPoint id="toc55" playOrder="55">
+                    <navLabel>
+                        <text>8.1 Economic activity</text>
+                    </navLabel>
+                    <content src="Text/Chapter8-1.xhtml#sec8-1"/>
+                </navPoint>
+                <navPoint id="toc56" playOrder="56">
+                    <navLabel>
+                        <text>8.2 Measures of economic activity</text>
+                    </navLabel>
+                    <content src="Text/Chapter8-2.xhtml#sec8-2"/>
+                </navPoint>
+                <navPoint id="toc57" playOrder="57">
+                    <navLabel>
+                        <text>8.3 Calculations based on national income accounting</text>
+                    </navLabel>
+                    <content src="Text/Chapter8-3.xhtml#sec8-3"/>
+                </navPoint>
+                <navPoint id="toc58" playOrder="58">
+                    <navLabel>
+                        <text>8.4 The business cycle</text>
+                    </navLabel>
+                    <content src="Text/Chapter8-4.xhtml#sec8-4"/>
+                </navPoint>
+                <navPoint id="toc59" playOrder="59">
+                    <navLabel>
+                        <text>8.5 National income statistics and alternative measures</text>
+                    </navLabel>
+                    <content src="Text/Chapter8-5.xhtml#sec8-5"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="toc60" playOrder="60">
+                <navLabel>
+                    <text>9 Aggregate demand and aggregate supply</text>
+                </navLabel>
+                <content src="Text/Chapter9.xhtml#c09"/>
+                <navPoint id="toc61" playOrder="61">
+                    <navLabel>
+                        <text>9.1 Aggregate demand (AD) and the aggregate demand curve</text>
+                    </navLabel>
+                    <content src="Text/Chapter9-1.xhtml#sec9-1"/>
+                </navPoint>
+                <navPoint id="toc62" playOrder="62">
+                    <navLabel>
+                        <text>9.2 Short-run aggregate supply and short-run equilibrium in the AD-AS model</text>
+                    </navLabel>
+                    <content src="Text/Chapter9-2.xhtml#sec9-2"/>
+                </navPoint>
+                <navPoint id="toc63" playOrder="63">
+                    <navLabel>
+                        <text>9.3 Long-run aggregate supply and long-run equilibrium in the monetarist/new classical model</text>
+                    </navLabel>
+                    <content src="Text/Chapter9-3.xhtml#sec9-3"/>
+                </navPoint>
+                <navPoint id="toc64" playOrder="64">
+                    <navLabel>
+                        <text>9.4 Aggregate supply and equilibrium in the Keynesian model</text>
+                    </navLabel>
+                    <content src="Text/Chapter9-4.xhtml#sec9-4"/>
+                </navPoint>
+                <navPoint id="toc65" playOrder="65">
+                    <navLabel>
+                        <text>9.5 Shifting aggregate supply curves over the long term</text>
+                    </navLabel>
+                    <content src="Text/Chapter9-5.xhtml#sec9-5"/>
+                </navPoint>
+                <navPoint id="toc66" playOrder="66">
+                    <navLabel>
+                        <text>9.6 Implications of the Keynesian model and the monetarist/new classical model</text>
+                    </navLabel>
+                    <content src="Text/Chapter9-6.xhtml#sec9-6"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="toc67" playOrder="67">
+                <navLabel>
+                    <text>10 Macroeconomic objectives I: Low unemployment, low and stable rate of inflation</text>
+                </navLabel>
+                <content src="Text/Chapter10.xhtml#c10"/>
+                <navPoint id="toc68" playOrder="68">
+                    <navLabel>
+                        <text>10.1 Low unemployment</text>
+                    </navLabel>
+                    <content src="Text/Chapter10-1.xhtml#sec10-1"/>
+                </navPoint>
+                <navPoint id="toc69" playOrder="69">
+                    <navLabel>
+                        <text>10.2 Low and stable rate of inflation</text>
+                    </navLabel>
+                    <content src="Text/Chapter10-2.xhtml#sec10-2"/>
+                </navPoint>
+                <navPoint id="toc70" playOrder="70">
+                    <navLabel>
+                        <text>10.3 Exploring the relationship between unemployment and inflation</text>
+                    </navLabel>
+                    <content src="Text/Chapter10-3.xhtml#sec10-3"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="toc71" playOrder="71">
+                <navLabel>
+                    <text>11 Macroeconomic objectives II: Economic growth, sustainable level of debt</text>
+                </navLabel>
+                <content src="Text/Chapter11.xhtml#c11"/>
+                <navPoint id="toc72" playOrder="72">
+                    <navLabel>
+                        <text>11.1 Economic growth</text>
+                    </navLabel>
+                    <content src="Text/Chapter11-1.xhtml#sec11-1"/>
+                </navPoint>
+                <navPoint id="toc73" playOrder="73">
+                    <navLabel>
+                        <text>11.2 Sustainable level of government debt (HL only)</text>
+                    </navLabel>
+                    <content src="Text/Chapter11-2.xhtml#sec11-2"/>
+                </navPoint>
+                <navPoint id="toc74" playOrder="74">
+                    <navLabel>
+                        <text>11.3 Potential conflict between macroeconomic objectives</text>
+                    </navLabel>
+                    <content src="Text/Chapter11-3.xhtml#sec11-3"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="toc75" playOrder="75">
+                <navLabel>
+                    <text>12 Economics of inequality and poverty</text>
+                </navLabel>
+                <content src="Text/Chapter12.xhtml#c12"/>
+                <navPoint id="toc76" playOrder="76">
+                    <navLabel>
+                        <text>12.1 Inequality</text>
+                    </navLabel>
+                    <content src="Text/Chapter12-1.xhtml#sec12-1"/>
+                </navPoint>
+                <navPoint id="toc77" playOrder="77">
+                    <navLabel>
+                        <text>12.2 Poverty</text>
+                    </navLabel>
+                    <content src="Text/Chapter12-2.xhtml#sec12-2"/>
+                </navPoint>
+                <navPoint id="toc78" playOrder="78">
+                    <navLabel>
+                        <text>12.3 Causes of economic inequality and poverty</text>
+                    </navLabel>
+                    <content src="Text/Chapter12-3.xhtml#sec12-3"/>
+                </navPoint>
+                <navPoint id="toc79" playOrder="79">
+                    <navLabel>
+                        <text>12.4 The impact of income and wealth inequality</text>
+                    </navLabel>
+                    <content src="Text/Chapter12-4.xhtml#sec12-4"/>
+                </navPoint>
+                <navPoint id="toc80" playOrder="80">
+                    <navLabel>
+                        <text>12.5 Policies to reduce income and wealth inequalities and poverty</text>
+                    </navLabel>
+                    <content src="Text/Chapter12-5.xhtml#sec12-5"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="toc81" playOrder="81">
+                <navLabel>
+                    <text>13 Demand-side and supply-side policies</text>
+                </navLabel>
+                <content src="Text/Chapter13.xhtml#c13"/>
+                <navPoint id="toc82" playOrder="82">
+                    <navLabel>
+                        <text>13.1 Introduction to macroeconomic policies</text>
+                    </navLabel>
+                    <content src="Text/Chapter13-1.xhtml#sec13-1"/>
+                </navPoint>
+                <navPoint id="toc83" playOrder="83">
+                    <navLabel>
+                        <text>13.2 Demand management and monetary policy</text>
+                    </navLabel>
+                    <content src="Text/Chapter13-2.xhtml#sec13-2"/>
+                </navPoint>
+                <navPoint id="toc84" playOrder="84">
+                    <navLabel>
+                        <text>13.3 Demand management and fiscal policy</text>
+                    </navLabel>
+                    <content src="Text/Chapter13-3.xhtml#sec13-3"/>
+                </navPoint>
+                <navPoint id="toc85" playOrder="85">
+                    <navLabel>
+                        <text>13.4 The Keynesian multiplier (HL only)</text>
+                    </navLabel>
+                    <content src="Text/Chapter13-4.xhtml#sec13-4"/>
+                </navPoint>
+                <navPoint id="toc86" playOrder="86">
+                    <navLabel>
+                        <text>13.5 Further topics on the multiplier and Keynesian economic theory (Supplementary material recommended for HL Only)</text>
+                    </navLabel>
+                    <content src="Text/Chapter13-5.xhtml#sec13-5"/>
+                </navPoint>
+                <navPoint id="toc87" playOrder="87">
+                    <navLabel>
+                        <text>13.6 Supply-side policies</text>
+                    </navLabel>
+                    <content src="Text/Chapter13-6.xhtml#sec13-6"/>
+                </navPoint>
+                <navPoint id="toc88" playOrder="88">
+                    <navLabel>
+                        <text>13.7 Evaluation of demand-side and supply-side policies to promote low unemployment, low and stable rate of inflation and economic growth</text>
+                    </navLabel>
+                    <content src="Text/Chapter13-7.xhtml#sec13-7"/>
+                </navPoint>
+            </navPoint>
+        </navPoint>
+        <navPoint id="toc89" playOrder="89">
+            <navLabel>
+                <text>Unit 4 The Global Economy</text>
+            </navLabel>
+            <content src="Text/Unit4.xhtml#u04"/>
+            <navPoint id="toc90" playOrder="90">
+                <navLabel>
+                    <text>14 International trade: Part I</text>
+                </navLabel>
+                <content src="Text/Chapter14.xhtml#c14"/>
+                <navPoint id="toc91" playOrder="91">
+                    <navLabel>
+                        <text>14.1 The benefits of international trade</text>
+                    </navLabel>
+                    <content src="Text/Chapter14-1.xhtml#sec14-1"/>
+                </navPoint>
+                <navPoint id="toc92" playOrder="92">
+                    <navLabel>
+                        <text>14.2 Free trade: absolute and comparative advantage (HL only)</text>
+                    </navLabel>
+                    <content src="Text/Chapter14-2.xhtml#sec14-2"/>
+                </navPoint>
+                <navPoint id="toc93" playOrder="93">
+                    <navLabel>
+                        <text>14.3 Types of trade protection: restrictions on free trade</text>
+                    </navLabel>
+                    <content src="Text/Chapter14-3.xhtml#sec14-3"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="toc94" playOrder="94">
+                <navLabel>
+                    <text>15 International trade: Part II</text>
+                </navLabel>
+                <content src="Text/Chapter15.xhtml#c15"/>
+                <navPoint id="toc95" playOrder="95">
+                    <navLabel>
+                        <text>15.1 Arguments for and against trade protection</text>
+                    </navLabel>
+                    <content src="Text/Chapter15-1.xhtml#sec15-1"/>
+                </navPoint>
+                <navPoint id="toc96" playOrder="96">
+                    <navLabel>
+                        <text>15.2 Economic integration: trading blocs</text>
+                    </navLabel>
+                    <content src="Text/Chapter15-2.xhtml#sec15-2"/>
+                </navPoint>
+                <navPoint id="toc97" playOrder="97">
+                    <navLabel>
+                        <text>15.3 Economic integration: monetary union</text>
+                    </navLabel>
+                    <content src="Text/Chapter15-3.xhtml#sec15-3"/>
+                </navPoint>
+                <navPoint id="toc98" playOrder="98">
+                    <navLabel>
+                        <text>15.4 World Trade Organization</text>
+                    </navLabel>
+                    <content src="Text/Chapter15-4.xhtml#sec15-4"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="toc99" playOrder="99">
+                <navLabel>
+                    <text>16 Exchange rates and the balance of payments</text>
+                </navLabel>
+                <content src="Text/Chapter16.xhtml#c16"/>
+                <navPoint id="toc100" playOrder="100">
+                    <navLabel>
+                        <text>16.1 Floating exchange rates</text>
+                    </navLabel>
+                    <content src="Text/Chapter16-1.xhtml#sec16-1"/>
+                </navPoint>
+                <navPoint id="toc101" playOrder="101">
+                    <navLabel>
+                        <text>16.2 Consequences of changes in exchange rates: an evaluation</text>
+                    </navLabel>
+                    <content src="Text/Chapter16-2.xhtml#sec16-2"/>
+                </navPoint>
+                <navPoint id="toc102" playOrder="102">
+                    <navLabel>
+                        <text>16.3 Government intervention</text>
+                    </navLabel>
+                    <content src="Text/Chapter16-3.xhtml#sec16-3"/>
+                </navPoint>
+                <navPoint id="toc103" playOrder="103">
+                    <navLabel>
+                        <text>16.4 The balance of payments</text>
+                    </navLabel>
+                    <content src="Text/Chapter16-4.xhtml#sec16-4"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="toc104" playOrder="104">
+                <navLabel>
+                    <text>17 Further topics on exchange rates and the balance of payments (HL only)</text>
+                </navLabel>
+                <content src="Text/Chapter17.xhtml#c17"/>
+                <navPoint id="toc105" playOrder="105">
+                    <navLabel>
+                        <text>17.1 How the current account and the financial account are related to exchange rates</text>
+                    </navLabel>
+                    <content src="Text/Chapter17-1.xhtml#sec17-1"/>
+                </navPoint>
+                <navPoint id="toc106" playOrder="106">
+                    <navLabel>
+                        <text>17.2 Comparing and contrasting exchange rate systems</text>
+                    </navLabel>
+                    <content src="Text/Chapter17-2.xhtml#sec17-2"/>
+                </navPoint>
+                <navPoint id="toc107" playOrder="107">
+                    <navLabel>
+                        <text>17.3 Evaluating monetary union</text>
+                    </navLabel>
+                    <content src="Text/Chapter17-3.xhtml#sec17-3"/>
+                </navPoint>
+                <navPoint id="toc108" playOrder="108">
+                    <navLabel>
+                        <text>17.4 Understanding current account deficits and surpluses</text>
+                    </navLabel>
+                    <content src="Text/Chapter17-4.xhtml#sec17-4"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="toc109" playOrder="109">
+                <navLabel>
+                    <text>18 Understanding economic development</text>
+                </navLabel>
+                <content src="Text/Chapter18.xhtml#c18"/>
+                <navPoint id="toc110" playOrder="110">
+                    <navLabel>
+                        <text>18.1 Sustainable development</text>
+                    </navLabel>
+                    <content src="Text/Chapter18-1.xhtml#sec18-1"/>
+                </navPoint>
+                <navPoint id="toc111" playOrder="111">
+                    <navLabel>
+                        <text>18.2 Measuring development</text>
+                    </navLabel>
+                    <content src="Text/Chapter18-2.xhtml#sec18-2"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="toc112" playOrder="112">
+                <navLabel>
+                    <text>19 Barriers to economic growth and economic development</text>
+                </navLabel>
+                <content src="Text/Chapter19.xhtml#c19"/>
+                <navPoint id="toc113" playOrder="113">
+                    <navLabel>
+                        <text>19.1 Poverty cycles (or traps)</text>
+                    </navLabel>
+                    <content src="Text/Chapter19-1.xhtml#sec19-1"/>
+                </navPoint>
+                <navPoint id="toc114" playOrder="114">
+                    <navLabel>
+                        <text>19.2 Economic barriers</text>
+                    </navLabel>
+                    <content src="Text/Chapter19-2.xhtml#sec19-2"/>
+                </navPoint>
+                <navPoint id="toc115" playOrder="115">
+                    <navLabel>
+                        <text>19.3 Political and social barriers</text>
+                    </navLabel>
+                    <content src="Text/Chapter19-3.xhtml#sec19-3"/>
+                </navPoint>
+            </navPoint>
+            <navPoint id="toc116" playOrder="116">
+                <navLabel>
+                    <text>20 Strategies to promote economic growth and economic development</text>
+                </navLabel>
+                <content src="Text/Chapter20.xhtml#c20"/>
+                <navPoint id="toc117" playOrder="117">
+                    <navLabel>
+                        <text>20.1 International trade strategies</text>
+                    </navLabel>
+                    <content src="Text/Chapter20-1.xhtml#sec20-1"/>
+                </navPoint>
+                <navPoint id="toc118" playOrder="118">
+                    <navLabel>
+                        <text>20.2 Diversification and social enterprise</text>
+                    </navLabel>
+                    <content src="Text/Chapter20-2.xhtml#sec20-2"/>
+                </navPoint>
+                <navPoint id="toc119" playOrder="119">
+                    <navLabel>
+                        <text>20.3 Market-based policies</text>
+                    </navLabel>
+                    <content src="Text/Chapter20-3.xhtml#sec20-3"/>
+                </navPoint>
+                <navPoint id="toc120" playOrder="120">
+                    <navLabel>
+                        <text>20.4 Interventionist policies: redistribution and provision of merit goods</text>
+                    </navLabel>
+                    <content src="Text/Chapter20-4.xhtml#sec20-4"/>
+                </navPoint>
+                <navPoint id="toc121" playOrder="121">
+                    <navLabel>
+                        <text>20.5 Foreign direct investment and multinational corporations (MNCs)</text>
+                    </navLabel>
+                    <content src="Text/Chapter20-5.xhtml#sec20-5"/>
+                </navPoint>
+                <navPoint id="toc122" playOrder="122">
+                    <navLabel>
+                        <text>20.6 Foreign aid</text>
+                    </navLabel>
+                    <content src="Text/Chapter20-6.xhtml#sec20-6"/>
+                </navPoint>
+                <navPoint id="toc123" playOrder="123">
+                    <navLabel>
+                        <text>20.7 Multilateral development assistance</text>
+                    </navLabel>
+                    <content src="Text/Chapter20-7.xhtml#sec20-7"/>
+                </navPoint>
+                <navPoint id="toc124" playOrder="124">
+                    <navLabel>
+                        <text>20.8 Institutional change</text>
+                    </navLabel>
+                    <content src="Text/Chapter20-8.xhtml#sec20-8"/>
+                </navPoint>
+                <navPoint id="toc125" playOrder="125">
+                    <navLabel>
+                        <text>20.9 Strengths and limitations of government intervention versus market-oriented approaches</text>
+                    </navLabel>
+                    <content src="Text/Chapter20-9.xhtml#sec20-9"/>
+                </navPoint>
+                <navPoint id="toc126" playOrder="126">
+                    <navLabel>
+                        <text>20.10 Progress toward meeting selected Sustainable Development Goals</text>
+                    </navLabel>
+                    <content src="Text/Chapter20-10.xhtml#sec20-10"/>
+                </navPoint>
+            </navPoint>
+        </navPoint>
+        <navPoint id="toc127" playOrder="127">
+            <navLabel>
+                <text>Copyright</text>
+            </navLabel>
+            <content src="Text/Copy.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>
