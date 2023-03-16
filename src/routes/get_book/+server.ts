@@ -1,6 +1,6 @@
 import { load, type CheerioAPI } from "cheerio";
 
-export async function POST({ request, fetch }) {
+export async function POST({ request }) {
 	const { base } = await request.json();
 	const resp = await fetch(base + "toc.ncx", {
 		headers: { referer: "https://elevate.cambridge.org" },
@@ -11,7 +11,7 @@ export async function POST({ request, fetch }) {
 		JSON.stringify({
 			author: $("docAuthor:first").text(),
 			title: $("docTitle:first").text(),
-			nodes: await getNodes($, base, fetch),
+			nodes: await getNodes($, base),
 		}),
 		{ headers: { "content-type": "application/json" } }
 	);
@@ -19,7 +19,7 @@ export async function POST({ request, fetch }) {
 
 type Fetch = typeof fetch;
 
-async function getNodes($: CheerioAPI, base: string, fetch: Fetch) {
+async function getNodes($: CheerioAPI, base: string) {
 	const nodes = $("navMap:first > navPoint")
 		.toArray()
 		.map(async (node) => {
