@@ -141,6 +141,7 @@
 					class="box large_text"
 					style="text-align: center;"
 					on:click={() => {
+						history.pushState({}, "");
 						terms = [];
 						fillTerms(stack[0]);
 						if (terms.length > 0) {
